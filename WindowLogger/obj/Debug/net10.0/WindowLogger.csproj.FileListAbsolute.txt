@@ -1,0 +1,14 @@
+C:\Users\krati\Desktop\Work\WindowLogger\bin\Debug\net10.0\WindowLogger.exe
+C:\Users\krati\Desktop\Work\WindowLogger\bin\Debug\net10.0\WindowLogger.deps.json
+C:\Users\krati\Desktop\Work\WindowLogger\bin\Debug\net10.0\WindowLogger.runtimeconfig.json
+C:\Users\krati\Desktop\Work\WindowLogger\bin\Debug\net10.0\WindowLogger.dll
+C:\Users\krati\Desktop\Work\WindowLogger\bin\Debug\net10.0\WindowLogger.pdb
+C:\Users\krati\Desktop\Work\WindowLogger\obj\Debug\net10.0\WindowLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krati\Desktop\Work\WindowLogger\obj\Debug\net10.0\WindowLogger.AssemblyInfoInputs.cache
+C:\Users\krati\Desktop\Work\WindowLogger\obj\Debug\net10.0\WindowLogger.AssemblyInfo.cs
+C:\Users\krati\Desktop\Work\WindowLogger\obj\Debug\net10.0\WindowLogger.csproj.CoreCompileInputs.cache
+C:\Users\krati\Desktop\Work\WindowLogger\obj\Debug\net10.0\WindowLogger.dll
+C:\Users\krati\Desktop\Work\WindowLogger\obj\Debug\net10.0\refint\WindowLogger.dll
+C:\Users\krati\Desktop\Work\WindowLogger\obj\Debug\net10.0\WindowLogger.pdb
+C:\Users\krati\Desktop\Work\WindowLogger\obj\Debug\net10.0\WindowLogger.genruntimeconfig.cache
+C:\Users\krati\Desktop\Work\WindowLogger\obj\Debug\net10.0\ref\WindowLogger.dll
